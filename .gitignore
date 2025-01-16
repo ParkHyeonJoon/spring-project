@@ -42,3 +42,6 @@ out/
 .AppleDouble
 .LSOverride
 ...
+
+### infra/db ###
+infra/db
