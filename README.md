@@ -9,15 +9,15 @@
 
 # 주요 기술 스택
 
-SpringBoot 3.4.1
-Java 21
-SpringSecurity 6.x
-SpringBatch 5.x
-JWT (JSON Web Token)
-OAuth 2.0 (카카오 소셜 로그인)
-Gradle 빌드
-MySQL
-Flyway
-Docker
-React 18
-Node 20.9.0
+- SpringBoot 3.4.1
+- Java 21
+- SpringSecurity 6.x
+- SpringBatch 5.x
+- JWT (JSON Web Token)
+- OAuth 2.0 (카카오 소셜 로그인)
+- Gradle 빌드
+- MySQL
+- Flyway
+- Docker
+- React 18
+- Node 20.9.0
