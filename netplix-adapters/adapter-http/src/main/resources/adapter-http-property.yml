@@ -1,0 +1,7 @@
+tmdb:
+  auth:
+    api-key: b72ed5f4ca40e33d847f772e6fcd7794
+    access-token: eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiNzJlZDVmNGNhNDBlMzNkODQ3Zjc3MmU2ZmNkNzc5NCIsIm5iZiI6MTczNjkzMDcyOC44MDA5OTk5LCJzdWIiOiI2Nzg3NzVhODhkNDljNDRmYTViYjBjZDciLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0._X4rFyKqQNlwTnvBmYNnEcK3MeiuUgdGOtfABTqd2PQ
+  api:
+    movie-lists:
+      now-playing: https://api.themoviedb.org/3/movie/now_playing
